@@ -160,8 +160,10 @@ Suggest one focused next step when the evidence supports it.
 
 ## 7. Report
 
-<!-- TODO 3: -->
+<!-- TODO 3: 
+-->
 Define a concise maintainer-facing report containing:
+
 - a 1–2 sentence summary
 - type and priority with brief evidence
 - a suggested-team label and simulated inline-code team tag
