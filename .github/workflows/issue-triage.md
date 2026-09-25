@@ -160,7 +160,7 @@ Suggest one focused next step when the evidence supports it.
 
 ## 7. Report
 
-<!-- TODO 3:
+<!-- TODO 3: -->
 Define a concise maintainer-facing report containing:
 - a 1–2 sentence summary
 - type and priority with brief evidence
@@ -172,14 +172,3 @@ Define a concise maintainer-facing report containing:
 For an incomplete issue, replace speculative classification with focused
 clarifying questions while retaining the routing recommendation and approval
 status when supported. Keep the entire comment under 300 words.
--->
-
-[One or two sentences summarizing the issue and recommended routing.]
-
-| Assessment | Result | Reasoning |
-|---|---|---|
-| Type | [type or unset] | [brief evidence] |
-| Priority | [priority or unset] | [brief evidence] |
-| Suggested team | [`suggested-team/*` or unset] | [brief evidence] |
-| Simulated tag | [`@example/team-name` or unset] | No real mention is created |
-| Approval | Pending maintainer review | Human confirms or changes the route |
