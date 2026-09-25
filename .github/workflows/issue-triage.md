@@ -109,6 +109,8 @@ Define when to recommend each suggested-team label:
 - suggested-team/support-triage
 -->
 
+Categorize the priority of the bug report as follows:
+
 Choose only labels that already exist and are directly supported by evidence.
 Apply at most one type label, one priority label, one status label such as
 `needs-info` or `duplicate`, and one suggested-team label.
@@ -127,7 +129,7 @@ Recommend routing using at most one label:
 - `suggested-team/developer-experience`: GitHub CLI, authentication, Codespaces,
   local developer tooling, and developer environment problems.
 - `suggested-team/support-triage`: incomplete intake, general usage questions,
-  or reports that cannot yet be routed to a product team.
+  or reports that cannot yet be routed to a product team, escalate directly to tech support.
 
 Prefer leaving the team unset over an unsupported product-team guess. An
 incomplete issue may route to support triage when focused clarification is the
