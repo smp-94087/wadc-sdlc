@@ -38,7 +38,15 @@ safe-outputs:
       - bug
       - feature
       - needs-info
+      - priority/p0
+      - priority/p1
+      - priority/p2
+      - duplicate
       - invalid
+      - spam
+      - suggested-team/workflows
+      - suggested-team/developer-experience
+      - suggested-team/support-triage
       # TODO 1: Add the labels needed for incomplete issues, duplicates,
       # invalid submissions, spam, priorities p0 through p2, and the three
       # suggested-team routing options.
