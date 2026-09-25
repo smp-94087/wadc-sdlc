@@ -83,7 +83,7 @@ Define what the workflow should do when essential information is missing.
 For a bug, look for reproduction steps, expected and actual behavior, relevant
 logs or errors, and environment details. For a feature or task, look for the
 problem being solved, desired outcome, and enough scope to understand the
-request.
+request. At minimumthe reporter should supply OS type and version, hardware platform, browser type and version.
 
 If essential details are missing:
 
